@@ -1,0 +1,24 @@
+li {
+  display: inline;
+  list-style: none;
+  width: 290px;
+  min-height: 290px;
+  float: left;
+  margin: 0 10px 10px 0;
+  text-align: center;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+span {
+  display: block;
+  margin: auto;
+}
+body {
+  margin: auto;
+  width: auto;
+  height: auto;
+}
+div {
+  text-align: center;
+}
